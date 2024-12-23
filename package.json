@@ -1,6 +1,6 @@
 {
   "name": "tailwind-completion",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "Tailwind-SetUp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmirHoseinAshkani/tailwind-completion.git"
+  },
+  "homepage": "https://github.com/YourUsername/tailwind-completion#readme",
+  "bugs": {
+    "url": "https://github.com/YourUsername/tailwind-completion/issues"
+  }
 }
