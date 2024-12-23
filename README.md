@@ -5,7 +5,7 @@ A CLI tool for setting up Tailwind CSS quickly.
 ## Installation
 
 ```bash
-npm install -g tailwind-completion
+npm install tailwind-completion
 
 Usage
 

@@ -1,6 +1,6 @@
 {
   "name": "tailwind-completion",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "main": "Tailwind-SetUp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,8 @@
     "type": "git",
     "url": "https://github.com/AmirHoseinAshkani/tailwind-completion.git"
   },
-  "homepage": "https://github.com/YourUsername/tailwind-completion#readme",
+  "homepage": "https://github.com/AmirHoseinAshkani/tailwind-completion#readme",
   "bugs": {
-    "url": "https://github.com/YourUsername/tailwind-completion/issues"
+    "url": "https://github.com/AmirHoseinAshkani/tailwind-completion/issues"
   }
 }
