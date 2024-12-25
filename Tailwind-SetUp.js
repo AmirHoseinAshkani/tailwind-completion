@@ -3,7 +3,6 @@
 const { execSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
-
 try {
   console.log("Step 1: Initializing npm project...");
   execSync("npm init -y", { stdio: "inherit" });
